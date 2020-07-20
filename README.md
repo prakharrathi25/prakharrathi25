@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about the intersection of technology and finance
 -->
+- 🔭 I’m currently working on [@Omdena](https://github.com/omdena)'s Botnar project 
+- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi25)!
+- 🌱 I’m currently learning about Financial Applications of Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on open source projects or any project that can help others during the Covid-19 Pandemic
+- 🤔 I’m looking for help with being more productive during the pandemic 
+- 📫 How to reach me: [pr440@snu.edu.in](mailto:pr440@snu.edu.in)
+- 📧 Check out my [portfolio website](https://prakharrathi25.github.io/) to get to know me better
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am really into trekking
+
+<br/>
+<div align="center" style= "align-content":center>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prakharrathi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</div>
