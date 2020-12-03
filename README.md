@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Prakhar 👋
+
+<p align="center"><img src="https://profile-counter.glitch.me/prakharrathi25/count.svg"/></p>
 
 <!--
 **prakharrathi25/prakharrathi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,8 +22,3 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharrathi25&show_icons=true&theme=dracula" /></p>
-
-
-<!--
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prakharrathi25&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="20" width="20"/>
---> 
