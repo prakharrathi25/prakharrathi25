@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 🔭 I’m currently working on independent research work. 
+- 🔭 I’m currently working on independent research. 
 - 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi)!
 - 🌱 I’m currently learning about Spatio-temporal analysis using R. 
 - 👯 I’m looking to collaborate on open source projects and NLProc Reasearch.
