@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects and NLProc Reasearch.
 - 🤔 I’m looking for help with being more productive during the pandemic. 
 - 📫 How to reach me: [pr440@snu.edu.in](mailto:pr440@snu.edu.in)
-- 📧 Check out my [portfolio website](https://prakharrathi25.github.io/) to get to know me better
+- 📧 Check out my [portfolio website](https://prakharrathi25.netlify.app/) to get to know me better
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am really into trekking
 
