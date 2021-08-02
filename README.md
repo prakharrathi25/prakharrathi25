@@ -10,7 +10,7 @@
   
 </h5>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
   </a>
 </h1>
