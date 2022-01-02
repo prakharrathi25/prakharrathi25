@@ -38,13 +38,22 @@ Here are some ideas to get you started:
 
 <br/>
 
+<!-- #TESTING 
+
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ -->
+
 <p align="center"> 
   <img src="https://github.com/prakharrathi25/github-stats/blob/master/generated/overview.svg" alt="Contributions" />
   <img src="https://github.com/prakharrathi25/github-stats/blob/master/generated/languages.svg" alt="Languages of Prakhar" />  
 </p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharrathi25&show_icons=true&theme=dracula" /></p> -->
-
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prakharrathi25&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+</p>
 
 ## Skills
 
@@ -70,7 +79,6 @@ Here are some ideas to get you started:
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   
 </p>
-
 
 
 
