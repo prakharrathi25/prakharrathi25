@@ -15,7 +15,7 @@
   </a>
 </h1>
 
-<h6> Quote Credits: Arpan Mishra </h6> 
+<h6> Quote Credits: Vsauce </h6> 
 
 <p align="center"><img src="https://profile-counter.glitch.me/prakharrathi25/count.svg"/></p>
 
