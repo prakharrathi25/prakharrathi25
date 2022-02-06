@@ -53,6 +53,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prakharrathi25&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
 </p>
 
+## Trophies
+<details><summary>Discover</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=prakharrathi25&column=7&theme=gruvbox&no-frame=true"/>
+</details>
+
 ## Skills
 
 ### Languages
