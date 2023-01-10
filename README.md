@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the intersection of technology and finance
 -->
-- 🔭 I’m currently working on independent research. 
-- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi)!
+- 🔭 I’m currently working as a data scientist at American Express. 
+- 🖊️ I also try to write once in a while. [Check it out](https://medium.com/@prakharrathi)! 
+- 📖 I recently authored a Chapter in the Data Science Text Book. [Buy 🛒](https://www.vde-verlag.de/books/537721/neue-dimensionen-in-data-science.html)
 - 🌱 I’m currently learning about Spatio-temporal analysis using R. 
 - 👯 I’m looking to collaborate on open source projects and NLProc Reasearch.
 - 🤔 I’m looking for help with being more productive during the pandemic. 
